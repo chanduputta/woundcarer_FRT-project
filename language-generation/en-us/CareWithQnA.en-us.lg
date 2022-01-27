@@ -1,0 +1,24 @@
+[import](common.lg)
+
+# SendActivity_Greeting()
+[Activity
+    Text = ${SendActivity_Greeting_text()}
+]
+
+# SendActivity_DidNotUnderstand()
+[Activity
+    Text = Sorry, I didn't get that. Ask again in other way or contact a HumanBeing near you.
+]
+
+# TextInput_Prompt_PfB3ep()
+[Activity
+    Text = ${expandText(@answer)}
+    SuggestedActions = ${foreach(turn.recognized.answers[0].context.prompts, x, x.displayText)}
+]
+
+# SendActivity_21zlE8()
+- ${expandText(@answer)}
+
+# SendActivity_Greeting_text()
+- hi${SendActivity_Greeting_text()}.
+- Welcome! I'm "The WOUND HEALER!" peaple come to me when they met with injuries
