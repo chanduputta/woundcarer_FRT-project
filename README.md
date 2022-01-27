@@ -1,5 +1,5 @@
 # WoundCarer 
-A Healthcare ChatBot Built with azure bot services and QnA maker using Language Understanding Azure Cognitive services.
+A Healthcare ChatBot Built using Azure Services 
 
 This project is done as part of the Future Ready Talent Virtual Internship Program organised by Microsoft.
 ### Industry
@@ -66,10 +66,11 @@ Developer tools
 
 ![Screenshot (111)](https://user-images.githubusercontent.com/31448776/151383599-5e9f19a1-28cb-41ae-8916-f8d17aa025bb.png)
 
-Channelized in telegram
+* Channelized in telegram
 ![Screenshot (114)](https://user-images.githubusercontent.com/31448776/151383344-fee3b88c-10ad-4471-b197-657e28183d33.png)
 
-#### demonstrating video of the project https://youtu.be/hfbuNBclqPw
+### * demonstrating video URL of the project:  https://youtu.be/hfbuNBclqPw
+
 ## Accessing the Bot
 ### used **telegram** as a channel to access the bot
 to Use the chat bot one must have access to the telegram  .
