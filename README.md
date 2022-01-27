@@ -44,6 +44,7 @@ Developer tools
 ![Screenshot (75)](https://user-images.githubusercontent.com/31448776/151380279-276e9f4a-329b-41f0-bc45-42dcce78d207.png)
 
 * Created Resources
+
 ![Screenshot (95)](https://user-images.githubusercontent.com/31448776/151381941-34b1ef33-4e26-4728-9e5a-6bc36f1a897e.png)
 ![Screenshot (96)](https://user-images.githubusercontent.com/31448776/151381977-651b2bbd-ec93-4358-bf87-78f0baf76062.png)
 
@@ -67,9 +68,10 @@ Developer tools
 ![Screenshot (111)](https://user-images.githubusercontent.com/31448776/151383599-5e9f19a1-28cb-41ae-8916-f8d17aa025bb.png)
 
 * Channelized in telegram
+
 ![Screenshot (114)](https://user-images.githubusercontent.com/31448776/151383344-fee3b88c-10ad-4471-b197-657e28183d33.png)
 
-### * demonstrating video URL of the project:  https://youtu.be/hfbuNBclqPw
+
 
 ## Accessing the Bot
 ### used **telegram** as a channel to access the bot
@@ -89,5 +91,6 @@ to Use the chat bot one must have access to the telegram  .
 ![chat](https://user-images.githubusercontent.com/31448776/151075241-e57359fc-bb82-4cc8-8e81-55f91f6ffec7.png)
 
 
-## 
-### 
+##
+###  Project demonstration video URL: https://youtu.be/hfbuNBclqPw
+##
