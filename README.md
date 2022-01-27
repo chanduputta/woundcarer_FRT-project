@@ -88,8 +88,6 @@ to Use the chat bot one must have access to the telegram  .
 
 ![Screenshot (104)](https://user-images.githubusercontent.com/31448776/151077964-ef335763-5271-45e8-8f45-9fad6a596b65.png)
 ![Screenshot (99)](https://user-images.githubusercontent.com/31448776/151077476-090d2703-1f96-4686-98c5-b035402967bf.png)
-![chat](https://user-images.githubusercontent.com/31448776/151075241-e57359fc-bb82-4cc8-8e81-55f91f6ffec7.png)
-
 
 ##
 ###  Project demonstration video URL: https://youtu.be/hfbuNBclqPw
