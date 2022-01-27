@@ -73,7 +73,9 @@ Channelized in telegram
 ## Accessing the Bot
 ### used **telegram** as a channel to access the bot
 to Use the chat bot one must have access to the telegram  .
-* Bot URL https://telegram.me/Woundcarer_bot
+* Bot URL https://telegram.me/Woundcarer_bot  
+
+# demonstrating video of the project https://youtu.be/hfbuNBclqPw
 
 ## QR(Quick Responce) code:
 ![qrcode_telegram me](https://user-images.githubusercontent.com/31448776/151077157-ca7aff98-39b2-426c-8ecd-1d44070ccf98.png)
@@ -87,6 +89,5 @@ to Use the chat bot one must have access to the telegram  .
 ![chat](https://user-images.githubusercontent.com/31448776/151075241-e57359fc-bb82-4cc8-8e81-55f91f6ffec7.png)
 
 
-## Video URL of demonstrating the project
-* YouTube link: https://youtu.be/hfbuNBclqPw
+## 
 ### 
