@@ -1,0 +1,82 @@
+{
+  "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Resources/deployments/Microsoft.Template-20220127163405",
+  "name": "Microsoft.Template-20220127163405",
+  "type": "Microsoft.Resources/deployments",
+  "tags": {
+    "marketplaceItemId": "Microsoft.Template"
+  },
+  "properties": {
+    "templateHash": "13634882837465894354",
+    "parameters": {
+      "botServices_Woundcarer_name": {
+        "type": "String",
+        "value": "Woundcarer"
+      }
+    },
+    "mode": "Incremental",
+    "debugSetting": {
+      "detailLevel": "None"
+    },
+    "provisioningState": "Succeeded",
+    "timestamp": "2022-01-27T11:04:19.495398Z",
+    "duration": "PT9.5728199S",
+    "correlationId": "f58c6132-986d-422b-8148-724765693906",
+    "providers": [
+      {
+        "namespace": "Microsoft.BotService",
+        "resourceTypes": [
+          {
+            "resourceType": "botServices",
+            "locations": [
+              "global"
+            ]
+          },
+          {
+            "resourceType": "botServices/channels",
+            "locations": [
+              "global"
+            ]
+          }
+        ]
+      }
+    ],
+    "dependencies": [
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer",
+            "resourceType": "Microsoft.BotService/botServices",
+            "resourceName": "Woundcarer"
+          }
+        ],
+        "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer/channels/TelegramChannel",
+        "resourceType": "Microsoft.BotService/botServices/channels",
+        "resourceName": "Woundcarer/TelegramChannel"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer",
+            "resourceType": "Microsoft.BotService/botServices",
+            "resourceName": "Woundcarer"
+          }
+        ],
+        "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer/channels/WebChatChannel",
+        "resourceType": "Microsoft.BotService/botServices/channels",
+        "resourceName": "Woundcarer/WebChatChannel"
+      }
+    ],
+    "outputResources": [
+      {
+        "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer"
+      },
+      {
+        "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer/channels/TelegramChannel"
+      },
+      {
+        "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer/channels/WebChatChannel"
+      }
+    ],
+    "validationLevel": "Template"
+  }
+}

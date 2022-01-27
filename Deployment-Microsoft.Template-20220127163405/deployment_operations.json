@@ -1,0 +1,68 @@
+[
+  {
+    "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Resources/deployments/Microsoft.Template-20220127163405/operations/310DE3935C9CFF02",
+    "operationId": "310DE3935C9CFF02",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-01-27T11:04:19.3571616Z",
+      "duration": "PT8.5532778S",
+      "trackingId": "67948083-509f-42f8-b7db-307cf03e1ae2",
+      "serviceRequestId": "8f4abcea-8050-428f-b94e-f66e4f4ff030",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer/channels/WebChatChannel",
+        "resourceType": "Microsoft.BotService/botServices/channels",
+        "resourceName": "Woundcarer/WebChatChannel"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Resources/deployments/Microsoft.Template-20220127163405/operations/CAC552FC95DF1AA7",
+    "operationId": "CAC552FC95DF1AA7",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-01-27T11:04:16.1956617Z",
+      "duration": "PT0.5712583S",
+      "trackingId": "cb0475ef-ab97-4eb1-9eab-b99d446f4f00",
+      "serviceRequestId": "7b87606c-ea21-4228-adde-a953699b3eb3",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer/channels/TelegramChannel",
+        "resourceType": "Microsoft.BotService/botServices/channels",
+        "resourceName": "Woundcarer/TelegramChannel"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Resources/deployments/Microsoft.Template-20220127163405/operations/EAE5930D87859EA7",
+    "operationId": "EAE5930D87859EA7",
+    "properties": {
+      "provisioningOperation": "Create",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-01-27T11:04:15.5862829Z",
+      "duration": "PT4.7823991S",
+      "trackingId": "91af3aed-38d1-44e2-8dc2-2a6772054620",
+      "serviceRequestId": "68ff2eaa-8c6e-4088-9dfd-8ceb5cb95181",
+      "statusCode": "OK",
+      "targetResource": {
+        "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.BotService/botServices/Woundcarer",
+        "resourceType": "Microsoft.BotService/botServices",
+        "resourceName": "Woundcarer"
+      }
+    }
+  },
+  {
+    "id": "/subscriptions/511c6f4b-c01a-4ebb-9f77-3e3588ea20db/resourceGroups/cloud-shell-storage-centralindia/providers/Microsoft.Resources/deployments/Microsoft.Template-20220127163405/operations/08585583254358740227",
+    "operationId": "08585583254358740227",
+    "properties": {
+      "provisioningOperation": "EvaluateDeploymentOutput",
+      "provisioningState": "Succeeded",
+      "timestamp": "2022-01-27T11:04:19.4425871Z",
+      "duration": "PT0.0583604S",
+      "trackingId": "55da8094-bcdb-45df-9113-34f91e6b7aa7",
+      "statusCode": "OK"
+    }
+  }
+]
