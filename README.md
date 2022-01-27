@@ -35,7 +35,7 @@ Cloud storage
 
 Developer tools
 
-* **Bot Framework Composer:** Mostly the project is developed with minimal code using this composer.
+* **Bot Framework Composer:** Mostly the project is developed with minimum code using this composer.
 * **Visual studio 2022**
 
 ## Building process highlights
@@ -76,7 +76,7 @@ Developer tools
 ## Accessing the Bot
 ### used **telegram** as a channel to access the bot
 to Use the chat bot one must have access to the telegram  .
-* Bot URL https://telegram.me/Woundcarer_bot  
+* ### Bot URL https://telegram.me/Woundcarer_bot  
 
 
 ## QR(Quick Responce) code:
