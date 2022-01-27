@@ -20,23 +20,21 @@ This is a wound healing supporter ChatBot named WoundCarer is for the people who
 To overcome the challenges pondered over in the problem statement, I ideated a ChatBot wich capable to answering the following type of Questions responsibly
 1. **How do I keep my wound clean?** 
 2. **First aid kit contents** 
-3. **What should one do if the patient is bleeding heavily?** 
+3. **What should one do if the patient is bleeding heavily?** etc., .
 ## Azure Services used
-AI+Machine Learning
-* **Azure bot Service:** used to create the chatbot (woundcarer) and channelizing it with telegram 
+for AI+Machine Learning -
+* ###  *Azure bot Service* : used to create the chatbot (woundcarer) and channelizing it with telegram 
 
-Cognetive services
-* **Azure QnA Maker:** used to create knowledge base as the Source of the Bot content
-* **Azure Language Understanding(LUIS):** used this machine learning-based service to build natural language into Bot
+for Cognetive services -
+* ###  *Azure QnA Maker* : used to create knowledge base as the Source of the Bot content
+* ###  *Azure Language Understanding(LUIS)* : used this machine learning-based service to build natural language into Bot
 
-Cloud storage
+for Cloud storage -
+* ### *Azure Blob Storage* : used for scalable cloud storage backup and recovery
 
-* **Azure Blob Storage:** scalable cloud storage backup and recovery
-
-Developer tools
-
-* **Bot Framework Composer:** Mostly the project is developed with minimum code using this composer.
-* **Visual studio 2022**
+as Developer tools -
+* ###  *Bot Framework Composer* : Mostly the project is developed with minimum code using this composer.
+* ###  *Visual studio 2022*
 
 ## Project Building process highlights
 * started with the Bot Frame work composer
