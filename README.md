@@ -38,44 +38,43 @@ Developer tools
 * **Bot Framework Composer:** Mostly the project is developed with minimal code using this composer.
 * **Visual studio 2022**
 
-## Building process
-started weith this Bot Frame work composer
+## Building process highlights
+* started with the Bot Frame work composer
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/31448776/151380279-276e9f4a-329b-41f0-bc45-42dcce78d207.png)
 
-Created Resources
+* Created Resources
 ![Screenshot (95)](https://user-images.githubusercontent.com/31448776/151381941-34b1ef33-4e26-4728-9e5a-6bc36f1a897e.png)
 ![Screenshot (96)](https://user-images.githubusercontent.com/31448776/151381977-651b2bbd-ec93-4358-bf87-78f0baf76062.png)
 
-used microsoft Cognitive service LUIS Language Understanding and deployed
+* used microsoft Cognitive service LUIS Language Understanding and deployed
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/31448776/151381569-17c1e30c-7c27-488e-8a8f-40ab5fd60c3a.png)
 
-all Resources in group and Deployments succeeded
+* all Resources in group and Deployments succeeded
  
 ![Screenshot (118)](https://user-images.githubusercontent.com/31448776/151382439-736494f2-a42a-47e8-9df5-3075f386750e.png)
 
 ![Screenshot (123)](https://user-images.githubusercontent.com/31448776/151382772-f8ad2321-c9c4-4a04-9ce1-30fc4950a4ac.png)
 
-Publishion
+* Published Directly to Azure
 
 ![Screenshot (119)](https://user-images.githubusercontent.com/31448776/151382604-25cdb542-983b-4b33-8372-ba91dd17bf06.png)
 
 
-tested on web Chat (Azure portal)
+* tested on web Chat (Azure portal)
 
 ![Screenshot (111)](https://user-images.githubusercontent.com/31448776/151383599-5e9f19a1-28cb-41ae-8916-f8d17aa025bb.png)
 
 Channelized in telegram
 ![Screenshot (114)](https://user-images.githubusercontent.com/31448776/151383344-fee3b88c-10ad-4471-b197-657e28183d33.png)
 
-
+#### demonstrating video of the project https://youtu.be/hfbuNBclqPw
 ## Accessing the Bot
 ### used **telegram** as a channel to access the bot
 to Use the chat bot one must have access to the telegram  .
 * Bot URL https://telegram.me/Woundcarer_bot  
 
-# demonstrating video of the project https://youtu.be/hfbuNBclqPw
 
 ## QR(Quick Responce) code:
 ![qrcode_telegram me](https://user-images.githubusercontent.com/31448776/151077157-ca7aff98-39b2-426c-8ecd-1d44070ccf98.png)
