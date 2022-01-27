@@ -38,7 +38,7 @@ Developer tools
 * **Bot Framework Composer:** Mostly the project is developed with minimum code using this composer.
 * **Visual studio 2022**
 
-## Building process highlights
+## Project Building process highlights
 * started with the Bot Frame work composer
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/31448776/151380279-276e9f4a-329b-41f0-bc45-42dcce78d207.png)
