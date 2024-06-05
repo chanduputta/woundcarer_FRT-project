@@ -90,3 +90,8 @@ to Use the chat bot one must have access to the telegram  .
 ##
 ###  Project demonstration video URL: https://youtu.be/kI9OSZtbPjg
 ##
+
+## Certificates of Completion!
+![AI4students MicrosoftCertificate.pdf](https://github.com/user-attachments/files/15586314/AI4students.MicrosoftCertificate.pdf)
+
+![microsoft certificate](https://github.com/chanduputta/woundcarer_FRT-project/assets/31448776/ca8a10bc-7cbc-45ed-a093-744b90e4a413)
